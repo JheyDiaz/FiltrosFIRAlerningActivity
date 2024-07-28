@@ -1,2 +1,2 @@
 # FiltrosFIRAlerningActivity
-Actividad de aprendizaje para el aula, práctica sencilla para implementar Filtros FIR usando Matlab
+Actividad de aprendizaje para el aula, práctica sencilla para implementar Filtros FIR usando Matlab.
